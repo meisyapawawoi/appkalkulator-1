@@ -1,4 +1,4 @@
- using System;
+using System;
 
 //Declaration
 //Bye Aldio
@@ -52,7 +52,7 @@ public class laporan
 	 {
 		 //creating object
 		 laporan Aldio
-		 = new laporan ("aldio", "palangkaraya", "touring" ); 
+		 = new laporan ("Aldio Rasmana Daeng Taleba", "palangkaraya", "touring" ); 
 		 Console.WriteLine();
 	 }
 }
